@@ -6,7 +6,11 @@ Raf_changes_after_modifications
 >>>>>>> title
 =======
 New_check
+<<<<<<< HEAD
 >>>>>>> title
 fetch
 diff
 winf changes
+=======
+title_changes
+>>>>>>> title
