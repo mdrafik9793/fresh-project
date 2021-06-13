@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master_change
 =======
 Raf_changes_after_modifications
+>>>>>>> title
+=======
+New_check
 >>>>>>> title
