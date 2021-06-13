@@ -8,3 +8,4 @@ Raf_changes_after_modifications
 New_check
 >>>>>>> title
 fetch
+diff
